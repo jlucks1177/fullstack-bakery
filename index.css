@@ -25,6 +25,7 @@ p {
   display: flex;
   font-size: large;
   flex-wrap: wrap;
+  line-height: 1em;
 }
 
 .brand {
